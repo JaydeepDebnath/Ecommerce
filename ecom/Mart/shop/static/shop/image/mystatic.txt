@@ -1,0 +1,1 @@
+it is a static page it will be show our web page
